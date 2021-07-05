@@ -1,6 +1,6 @@
 {
   "name": "wl-blog-assets",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "汪浪的博客图床",
   "main": "index.js",
   "scripts": {
