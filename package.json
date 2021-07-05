@@ -1,0 +1,24 @@
+{
+  "name": "wl-blog-assets",
+  "version": "1.0.0",
+  "description": "汪浪的博客图床",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wanglang-12138/BlogAssets.git"
+  },
+  "keywords": [
+    "汪浪",
+    "图床",
+    "\u001b[D\u001b[D\u001b[\u001b[C\u001b[C"
+  ],
+  "author": "wanglang",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/wanglang-12138/BlogAssets/issues"
+  },
+  "homepage": "https://github.com/wanglang-12138/BlogAssets#readme"
+}
